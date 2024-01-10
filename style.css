@@ -1,6 +1,16 @@
 #timer {
-    display: block;
-    margin-top: 10px;
-    font-size: 16px;
-    color: black;
+  display: block;
+  margin-top: 10px;
+  font-size: 16px;
+  color: black;
+}
+
+.correct {
+  color: green;
+}
+.incorrect {
+  color: red;
+}
+.typed {
+  color: blue;
 }
